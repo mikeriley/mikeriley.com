@@ -1,4 +1,4 @@
-## Welcome to Mike Riley's GitHub.io Pages
+## Welcome to Mike Riley's GitHub Site
 
 Details coming soon.
 
