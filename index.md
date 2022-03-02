@@ -11,4 +11,16 @@ Mike is also a contributing editor and author of hundreds of technical articles 
 - [Developing Android on Android](https://www.amazon.com/Developing-Android-Automate-Device-Scripts/dp/1937785548/ref=sr_1_4)
 - [Programming Your Home](https://www.amazon.com/Programming-Your-Home-Pragmatic-Programmers/dp/1934356905/ref=sr_1_1)
 
+### Articles
+
+- [Medium.com](https://medium.com/@mike-riley)
+- [iPhone Life Magazine](https://www.iphonelife.com/blog/mike-riley)
+- [ITPro Today](http://www.itprotoday.com/author/mike-riley)
+- [Dr. Dobbs Journal](https://www.google.com/search?q=%22dr+dobbs+journal%22+%22mike+riley)
+
+### Social
+- [Email](mailto:mike@mikeriley.com)
+- [LinkedIn](https://www.linkedin.com/in/mikerileytechnologist/)
+- [Twitter](https://twitter.com/mriley)
+
 [mikeriley.com](http://www.mikeriley.com)
