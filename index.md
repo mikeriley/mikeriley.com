@@ -19,6 +19,7 @@ Mike is also a contributing editor and author of hundreds of technical articles 
 - [Dr. Dobbs Journal](https://www.google.com/search?q=%22dr+dobbs+journal%22+%22mike+riley)
 
 ### Social
+- [Author Profile](https://medium.com/pragmatic-programmers/meet-author-mike-riley-8ea7a8bca7e8)
 - [Email](mailto:mike@mikeriley.com)
 - [LinkedIn](https://www.linkedin.com/in/mikerileytechnologist/)
 - [Twitter](https://twitter.com/mriley)
