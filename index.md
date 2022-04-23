@@ -24,4 +24,3 @@ Mike is also a contributing editor and author of hundreds of technical articles 
 - [LinkedIn](https://www.linkedin.com/in/mikerileytechnologist/)
 - [Twitter](https://twitter.com/mriley)
 
-[mikeriley.com](http://www.mikeriley.com)
