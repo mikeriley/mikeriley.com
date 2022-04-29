@@ -20,6 +20,7 @@ Mike is also a contributing editor and author of hundreds of technical articles 
 
 ### Social
 - [Author Profile](https://medium.com/pragmatic-programmers/meet-author-mike-riley-8ea7a8bca7e8)
+- [Author Spotlight](https://forum.devtalk.com/t/spotlight-mike-riley-author-interview-and-ama/52444/1)
 - [Email](mailto:mike@mikeriley.com)
 - [LinkedIn](https://www.linkedin.com/in/mikerileytechnologist/)
 - [Twitter](https://twitter.com/mriley)
