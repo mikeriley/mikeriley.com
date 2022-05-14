@@ -4,19 +4,20 @@ Mike Riley is a professional software developer, DevOps engineer, emerging infor
 
 Mike is also a contributing editor and author of hundreds of technical articles and reviews for Dr. Dobb’s, DevProConnections, iPhone Life and Make Magazine, and was the co-host of Computer Connection, a technology enthusiast show broadcast on CLTV. Mike is also a contributing author to the Open eBook Publication Structure Specification, one of the three standards that comprise the EPUB digital publication file format.
 
-### Books
+### Articles
+- [Medium.com](https://medium.com/@mike-riley)
+- [iPhone Life Magazine](https://www.iphonelife.com/blog/mike-riley)
+- [ITPro Today](http://www.itprotoday.com/author/mike-riley)
+- [Dr. Dobbs Journal](https://www.google.com/search?q=%22dr+dobbs+journal%22+%22mike+riley)
 
+### Books
 - [Portable Python Projects](https://pragprog.com/titles/mrpython/portable-python-projects/)
 - [Build an Awesome PC](https://www.amazon.com/Build-Awesome-2014-Construct-Programmers/dp/194122217X/ref=sr_1_2)
 - [Developing Android on Android](https://www.amazon.com/Developing-Android-Automate-Device-Scripts/dp/1937785548/ref=sr_1_4)
 - [Programming Your Home](https://www.amazon.com/Programming-Your-Home-Pragmatic-Programmers/dp/1934356905/ref=sr_1_1)
 
-### Articles
-
-- [Medium.com](https://medium.com/@mike-riley)
-- [iPhone Life Magazine](https://www.iphonelife.com/blog/mike-riley)
-- [ITPro Today](http://www.itprotoday.com/author/mike-riley)
-- [Dr. Dobbs Journal](https://www.google.com/search?q=%22dr+dobbs+journal%22+%22mike+riley)
+### Podcasts
+- [Changelog Podcast](https://changelog.com/podcast/489)
 
 ### Social
 - [Author Profile](https://medium.com/pragmatic-programmers/meet-author-mike-riley-8ea7a8bca7e8)
