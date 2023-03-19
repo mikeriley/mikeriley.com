@@ -5,7 +5,7 @@ Mike Riley is a professional software developer, DevOps engineer, emerging infor
 Mike is also a contributing editor and author of hundreds of technical articles and reviews for Dr. Dobb’s, DevProConnections, iPhone Life and Make Magazine, and was the co-host of Computer Connection, a technology enthusiast show broadcast on CLTV. Mike is also a contributing author to the Open eBook Publication Structure Specification, one of the three standards that comprise the EPUB digital publication file format.
 
 ### Articles
-- [Medium.com](https://medium.com/@mike-riley)
+- [Medium.com](https://medium.com/@mike_riley)
 - [iPhone Life Magazine](https://www.iphonelife.com/blog/mike-riley)
 - [ITPro Today](http://www.itprotoday.com/author/mike-riley)
 - [Dr. Dobbs Journal](https://www.google.com/search?q=%22dr+dobbs+journal%22+%22mike+riley)
