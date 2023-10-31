@@ -11,6 +11,7 @@ Mike is also a contributing editor and author of hundreds of technical articles 
 - [Dr. Dobbs Journal](https://www.google.com/search?q=%22dr+dobbs+journal%22+%22mike+riley)
 
 ### Books
+- [Automate Your Home Using Go](https://pragprog.com/titles/gohome/automate-your-home-using-go/)
 - [Portable Python Projects](https://pragprog.com/titles/mrpython/portable-python-projects/)
 - [Build an Awesome PC](https://www.amazon.com/Build-Awesome-2014-Construct-Programmers/dp/194122217X/ref=sr_1_2)
 - [Developing Android on Android](https://www.amazon.com/Developing-Android-Automate-Device-Scripts/dp/1937785548/ref=sr_1_4)
