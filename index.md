@@ -1,6 +1,6 @@
 ## Welcome to Mike Riley's Website
 
-Mike Riley is a professional software developer, DevOps engineer, emerging information technologist, and the author of several Pragmatic Bookshelf titles including Portable Python Projects and Programming Your Home. He is also Pragmatic Bookshelf’s Hardware and IoT Series Expert. 
+Mike Riley is a professional software developer, DevOps engineer, emerging information technologist, and the author of several Pragmatic Bookshelf titles including Automate your Home Using Go, Portable Python Projects and Programming Your Home. He is also Pragmatic Bookshelf’s Hardware and IoT Series Expert. 
 
 Mike is also a contributing editor and author of hundreds of technical articles and reviews for Dr. Dobb’s, DevProConnections, iPhone Life and Make Magazine, and was the co-host of Computer Connection, a technology enthusiast show broadcast on CLTV. Mike is also a contributing author to the Open eBook Publication Structure Specification, one of the three standards that comprise the EPUB digital publication file format.
 
