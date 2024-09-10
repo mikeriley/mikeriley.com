@@ -18,6 +18,7 @@ Mike is also a contributing editor and author of hundreds of technical articles 
 - [Programming Your Home](https://www.amazon.com/Programming-Your-Home-Pragmatic-Programmers/dp/1934356905/ref=sr_1_1)
 
 ### Podcasts
+- [Go Time Podcast](https://gotime.fm/330)
 - [Changelog Podcast](https://changelog.com/podcast/489)
 
 ### Social
